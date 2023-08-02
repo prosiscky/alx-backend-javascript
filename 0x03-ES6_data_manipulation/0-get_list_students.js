@@ -1,6 +1,6 @@
 /**
  * Retrieves a list of students.
- * @author Prosperity 
+ * @author Prosperity Ikechi <https://github.com/prosiscky> 
  * @returns {{id: Number, firstName: String, location: String}[]}
  */
 export default function getListStudents() {
