@@ -6,7 +6,7 @@
  *   location: String
  * }[]} students - The list of students.
  * @param {String} city - The location.
- * @author Prosperity 
+ * @author Prosperity Ikechi <https://github.com/prosiscky>
  * @returns
  */
 export default function getStudentsByLocation(students, city) {
